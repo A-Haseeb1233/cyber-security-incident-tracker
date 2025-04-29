@@ -1,5 +1,5 @@
 # cyber-security-incident-tracker
-**Author - Abdul Haseeb**
+_**Author - Abdul Haseeb**_
 # 🛡️ Cybersecurity Incident Tracker
 
 A relational database project designed to log, manage, and analyze cybersecurity incidents across departments and locations. Developed using SQL and deployed via Neon.tech, this schema models real-world incident handling in organizations.
